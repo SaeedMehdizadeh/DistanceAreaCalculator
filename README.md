@@ -26,7 +26,7 @@ The `DistanceAreaCalculator` is a Python library that provides tools for calcula
    ```bash
    git clone <repository-url>
    cd <repository-name>
-
+```
 3.Run the tests to verify installation:
 python -m unittest discover tests
 
