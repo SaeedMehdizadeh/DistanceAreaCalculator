@@ -82,13 +82,13 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 # File Structure
 
-areas.py: Contains functions for calculating polygon areas.
-distances.py: Functions for calculating distances between points.
-init.py: Package initializer.
-setup.py: Library setup and metadata.
-Points.geojson: Example GeoJSON data for points.
-Polygons.geojson: Example GeoJSON data for polygons.
-TestAreas.py: Unit tests for areas.py.
-TestDistances.py: Unit tests for distances.py.
+- **areas.py**: Contains functions for calculating polygon areas.
+- **distances.py**: Functions for calculating distances between points.
+- **init.py**: Package initializer.
+- **setup.py**: Library setup and metadata.
+- **Points.geojson**: Example GeoJSON data for points.
+- **Polygons.geojson**: Example GeoJSON data for polygons.
+- **TestAreas.py**: Unit tests for areas.py.
+- **TestDistances.py**: Unit tests for distances.py.
 
 
