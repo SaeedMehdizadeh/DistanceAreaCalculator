@@ -36,13 +36,13 @@ python -m unittest discover tests
 
 Importing the Library
  ```bash
-from distances import calculate_distance
-from areas import calculate_area
+from .distances import calculate_distance
+from .areas import calculate_area
    ```
 Example: Distance Calculation
 
  ```bash
-from distances import calculate_distance
+from .distances import calculate_distance
 
 point1 = {"type": "Point", "coordinates": [10.0, 20.0]}
 point2 = {"type": "Point", "coordinates": [30.0, 40.0]}
@@ -52,7 +52,7 @@ print(f"Distance: {distance} km")
 
 Example: Area Calculation
  ```bash
-from areas import calculate_area
+from .areas import calculate_area
 
 polygon = {
     "type": "Polygon",
