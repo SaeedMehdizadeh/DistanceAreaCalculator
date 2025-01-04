@@ -1,8 +1,3 @@
-#!/bin/bash
-# This is a comment and will not be executed
-echo "This line will execute."
-# echo "This line is commented out and will not execute."
-
 # DistanceAreaCalculator
 
 The `DistanceAreaCalculator` is a Python library that provides tools for calculating distances between geospatial points and computing the areas of polygons. It supports GeoJSON data formats, making it easy to integrate with popular geospatial tools.
