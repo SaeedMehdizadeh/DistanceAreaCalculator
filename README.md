@@ -32,7 +32,7 @@ pip install -r requirements.txt
 python -m unittest discover tests
    ```
 
-Usage
+# Usage
 
 Importing the Library
  ```bash
@@ -62,7 +62,7 @@ area = calculate_area(polygon)
 print(f"Area: {area} sq. km")
    ```
 
-Contributing
+# Contributing
 
 We welcome contributions! To contribute:
 
@@ -76,11 +76,11 @@ Commit your changes and push them to your fork.
 Submit a pull request.
 
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-File Structure
+# File Structure
 
 areas.py: Contains functions for calculating polygon areas.
 distances.py: Functions for calculating distances between points.
