@@ -24,26 +24,35 @@ The `DistanceAreaCalculator` is a Python library that provides tools for calcula
 
 2.install dependencies:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+pip install -r requirements.txt
+
    ```
 3.Run the tests to verify installation:
+  ```bash
 python -m unittest discover tests
+   ```
 
 Usage
 
 Importing the Library
-from geospatial_library.distances import calculate_distance
-from geospatial_library.areas import calculate_area
+ ```bash
+from distances import calculate_distance
+from areas import calculate_area
+   ```
 Example: Distance Calculation
-from geospatial_library.distances import calculate_distance
+
+ ```bash
+from distances import calculate_distance
 
 point1 = {"type": "Point", "coordinates": [10.0, 20.0]}
 point2 = {"type": "Point", "coordinates": [30.0, 40.0]}
 distance = calculate_distance(point1, point2)
 print(f"Distance: {distance} km")
+   ```
+
 Example: Area Calculation
-from geospatial_library.areas import calculate_area
+ ```bash
+from areas import calculate_area
 
 polygon = {
     "type": "Polygon",
@@ -51,7 +60,7 @@ polygon = {
 }
 area = calculate_area(polygon)
 print(f"Area: {area} sq. km")
-
+   ```
 
 Contributing
 
@@ -59,16 +68,16 @@ We welcome contributions! To contribute:
 
 Fork this repository.
 Create a feature branch:
+ ```bash
 git checkout -b feature-name
+   ```
 Commit your changes and push them to your fork.
 Submit a pull request.
-Please follow our CONTRIBUTING.md guide for more details.
+
 
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-
 
 File Structure
 
