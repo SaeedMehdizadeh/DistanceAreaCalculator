@@ -37,7 +37,7 @@ Simply upload your data or draw your shapes directly on the map, and export the 
 pip install distances
 pip install areas
    ```
-**From Source**
+**From Source**<br>
 Clone the repository and install the package manually:
 
    ```bash
