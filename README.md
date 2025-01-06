@@ -11,13 +11,13 @@ The `DistanceAreaCalculator` is a Python library that provides tools for calcula
 - **Unit Tests**: Includes unit tests to ensure reliability.
 
 ## Installation
-## Using pip (recommended)
+1.Using pip (recommended)
 
    ```bash
 pip install distances
 pip install areas
    ```
-## From Source
+2.From Source
 Clone the repository and install the package manually:
 
    ```bash
