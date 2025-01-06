@@ -34,7 +34,7 @@ Simply upload your data or draw your shapes directly on the map, and export the 
 
 make sure the following libraries are installed in your python environment:<br>
 
-`math`<br>
+`Math`<br>
 `Numpy`
 
 ## Installation
