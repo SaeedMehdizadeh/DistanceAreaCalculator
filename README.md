@@ -25,7 +25,12 @@ DistanceAreaCalculator/
 ├── README.md             # Project documentation
 ├── setup.py              # Script for library installation
  ```
+## Data requirements
+The `DistanceAreaCalculator` library requires GeoJSON files for points and polygons to perform calculations. You can create or download the required GeoJSON data from the following link:<br>
 
+http://geojson.io/: A simple tool for creating, editing, and visualizing GeoJSON data.<br>
+
+Simply upload your data or draw your shapes directly on the map, and export the file as GeoJSON to use it with this library.
 ## Installation
 1.Using pip (recommended)
 
