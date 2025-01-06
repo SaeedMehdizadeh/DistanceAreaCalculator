@@ -30,7 +30,13 @@ The `DistanceAreaCalculator` library requires GeoJSON files for points and polyg
 
 http://geojson.io/: A simple tool for creating, editing, and visualizing GeoJSON data.<br>
 
-Simply upload your data or draw your shapes directly on the map, and export the file as GeoJSON to use it with this library.
+Simply upload your data or draw your shapes directly on the map, and export the file as GeoJSON to use it with this library.<br>
+
+make sure the following libraries are installed in your python environment:<br>
+
+`math`<br>
+`Numpy`
+
 ## Installation
 **Using pip (recommended)**
    ```bash
