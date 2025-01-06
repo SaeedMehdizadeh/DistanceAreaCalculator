@@ -15,7 +15,8 @@ Using pip (recommended)
 Install the library directly from PyPI:
 
    ```bash
-pip install <your-library-name>
+pip install <distances>
+pip install <areas>
    ```
 From Source
 Clone the repository and install the package manually:
