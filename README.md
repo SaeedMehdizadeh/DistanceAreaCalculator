@@ -2,7 +2,6 @@
 
 The `DistanceAreaCalculator` is a Python library that provides tools for calculating distances between geospatial points and computing the areas of polygons. It supports GeoJSON data formats, making it easy to integrate with popular geospatial tools.
 
-1.requirements of the geospatial library project:
 
 ## Features
 - **Calculate Distances**: Compute distances between two points using latitude and longitude.
