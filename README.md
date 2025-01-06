@@ -9,6 +9,23 @@ The `DistanceAreaCalculator` is a Python library that provides tools for calcula
 - **GeoJSON Support**: Work seamlessly with GeoJSON files for geospatial data.
 - **Unit Tests**: Includes unit tests to ensure reliability.
 
+## File structure
+```bash
+DistanceAreaCalculator/
+├── init.py               # Package initialization file
+├── distances.py          # Module for distance calculations
+├── areas.py              # Module for area calculations
+├── data/
+│   ├── Points.geojson    # GeoJSON file for point data
+│   ├── Polygons.geojson  # GeoJSON file for polygon data
+├── tests/
+│   ├── TestAreas.py      # Unit tests for area functions
+│   ├── TestDistances.py  # Unit tests for distance functions
+├── LICENSE               # License file for the project
+├── README.md             # Project documentation
+├── setup.py              # Script for library installation
+ ```
+
 ## Installation
 1.Using pip (recommended)
 
