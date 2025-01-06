@@ -63,12 +63,12 @@ python -m unittest discover tests/
 
 # Usage
 
-Importing the Library
+**Importing the Library**
  ```bash
 from .distances import calculate_distance
 from .areas import calculate_area
    ```
-Example: Distance Calculation
+**Example: Distance Calculation**
 
  ```bash
 from .distances import calculate_distance
@@ -79,7 +79,7 @@ distance = calculate_distance(point1, point2)
 print(f"Distance: {distance} km")
    ```
 
-Example: Area Calculation
+**Example: Area Calculation**
  ```bash
 from .areas import calculate_area
 
