@@ -22,23 +22,20 @@ Clone the repository and install the package manually:
 
    ```bash
 git clone https://github.com/SaeedMehdizadeh/DistanceAreaCalculator.git
+cd DistanceAreaCalculator
 pip install .
 
    ```
 
 
 ### Steps
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
 
-2.install dependencies:
+1.install dependencies:
    ```bash
 pip install -r requirements.txt
 
    ```
-3.Run the tests to verify installation:
+2.Run the tests to verify installation:
   ```bash
 python -m unittest discover tests
    ```
