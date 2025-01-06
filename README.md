@@ -49,16 +49,16 @@ pip install .
    ```
 
 
-### Steps
+# Testing
 
-1.install dependencies:
+the following instructions should be provided for running the tests, e.g:`TestDistances.py` and `TestAreas.py`
+
    ```bash
-pip install -r requirements.txt
-
+pytest
    ```
-2.Run the tests to verify installation:
+or
   ```bash
-python -m unittest discover tests
+python -m unittest discover tests/
    ```
 
 # Usage
