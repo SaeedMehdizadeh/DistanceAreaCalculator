@@ -106,8 +106,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 # Contact
 
-If you have any questions, suggestions, or feedback about the DistanceAreaCalculator library, feel free to reach out!
-**Author**: Saeed Mehdizadeh
+If you have any questions, suggestions, or feedback about the DistanceAreaCalculator library, feel free to reach out!<br>
+**Author**: Saeed Mehdizadeh <br>
 **Email**: saeed.mehdizadeh@mail.polimi.it
 
 
