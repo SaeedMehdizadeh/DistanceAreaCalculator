@@ -104,15 +104,10 @@ Submit a pull request.
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-# File Structure
+# Contact
 
-- **areas.py**: Contains functions for calculating polygon areas.
-- **distances.py**: Functions for calculating distances between points.
-- **init.py**: Package initializer.
-- **setup.py**: Library setup and metadata.
-- **Points.geojson**: Example GeoJSON data for points.
-- **Polygons.geojson**: Example GeoJSON data for polygons.
-- **TestAreas.py**: Unit tests for areas.py.
-- **TestDistances.py**: Unit tests for distances.py.
+If you have any questions, suggestions, or feedback about the DistanceAreaCalculator library, feel free to reach out!
+Author: Saeed Mehdizadeh
+Email: saeed.mehdizadeh@mail.polimi.it
 
 
