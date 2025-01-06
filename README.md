@@ -95,14 +95,17 @@ print(f"Area: {area} sq. km")
 
 We welcome contributions to improve the DistanceAreaCalculator library! Whether it’s fixing bugs, adding new features, or improving documentation, your help is greatly appreciated.<br>
 
-1.**Fork the Repository**: Click the “Fork” button at the top of this repository.<br>
-2.**Create a Feature Branch**: Use a meaningful name, like feature/new-distance-method.<br>
+- **Fork the Repository**: Click the “Fork” button at the top of this repository.<br>
+
+- **Create a Feature Branch**: Use a meaningful name, like feature/new-distance-method.<br>
  ```bash
 git checkout -b feature/new-distance-method
    ```
-3.**Make Changes**: Add your improvements, ensuring you write clear, reusable code.<br>
-4.**Write Tests**: Add or update tests in the tests/ directory to cover your changes.<br>
-5.**Submit a Pull Request**: Push your changes to your fork and create a pull request with a detailed explanation of your changes.
+- **Make Changes**: Add your improvements, ensuring you write clear, reusable code.<br>
+
+- **Write Tests**: Add or update tests in the tests/ directory to cover your changes.<br>
+
+- **Submit a Pull Request**: Push your changes to your fork and create a pull request with a detailed explanation of your changes.
 
 
 # License
