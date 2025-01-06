@@ -11,10 +11,22 @@ The `DistanceAreaCalculator` is a Python library that provides tools for calcula
 - **Unit Tests**: Includes unit tests to ensure reliability.
 
 ## Installation
+Using pip (recommended)
+Install the library directly from PyPI:
 
-### Prerequisites
-- Python 3.8 or higher
-- Recommended: Virtual environment (e.g., `venv` or `conda`)
+   ```bash
+pip install <your-library-name>
+   ```
+From Source
+Clone the repository and install the package manually:
+
+   ```bash
+git clone <repository-url>
+cd <your-library-folder>
+pip install .
+
+   ```
+
 
 ### Steps
 1. Clone the repository:
