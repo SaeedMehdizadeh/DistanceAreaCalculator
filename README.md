@@ -32,12 +32,12 @@ http://geojson.io/: A simple tool for creating, editing, and visualizing GeoJSON
 
 Simply upload your data or draw your shapes directly on the map, and export the file as GeoJSON to use it with this library.
 ## Installation
-1. Using pip (recommended)
+**Using pip (recommended)**
    ```bash
 pip install distances
 pip install areas
    ```
-2. From Source
+**From Source**
 Clone the repository and install the package manually:
 
    ```bash
