@@ -56,7 +56,7 @@ pip install .
 
 # Testing
 
-the following instructions should be provided for running the tests, e.g:`TestDistances.py` and `TestAreas.py`
+The following instructions should be provided for running the tests, e.g:`TestDistances.py` and `TestAreas.py`
 
    ```bash
 pytest
