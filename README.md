@@ -32,10 +32,14 @@ DistanceAreaCalculator/
 
 - Simply upload your data or draw your shapes directly on the map, and export the file as GeoJSON to use it with this library.<br>
 
+## Library requirements
 - Make sure the following libraries are installed in your python environment:<br>
 
 `Math`<br>
-`Numpy`
+`unittest`<br>
+`random`<br>
+`geopandas`<br>
+
 
 ## Installation
 **Using pip (recommended)**
